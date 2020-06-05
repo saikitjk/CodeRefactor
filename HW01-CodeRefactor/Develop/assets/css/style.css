@@ -113,8 +113,7 @@ div h3 {
     max-width: 150px;
 }
 
-
-.search-engine-optimization {
+.backgroundBase{ /*for that 3 blue retangle boxes*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -123,24 +122,6 @@ div h3 {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
 .content img{
     max-height: 200px;
@@ -150,25 +131,6 @@ div h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-
-/*Hover feature*/
-
-.content p:hover{
-    font-size: 1vw;;
-}
-
-.content img:hover{
-    transform: scale(1.2);
-}
-
-.benefits:hover {
-    transform: scale(1.1);
-}
-
-
-
-
 
 .footer {
     padding: 30px;
@@ -181,66 +143,15 @@ div h2 {
     font-size: 20px;
 }
 
-/*Original code blow*/
-/*
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
+/*Hover feature*/
+.content p:hover{
+    font-size: 1vw;;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
+.content img:hover{
+    transform: scale(1.2);
 }
 
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
+.benefits:hover {
+    transform: scale(1.1);
 }
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-*/
