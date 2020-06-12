@@ -3,7 +3,7 @@
 # Objectives
 The objectives of this assignment is to refactor the given HTML and CSS in order to make the page to meet the accessibility standards.
 The following changes have been made to address the accessibility criteria:
-1) Replace all <div> tags to semantic tags
+1) Replace all "<div>" tags to semantic tags
 2) Added ID for search-engine-optimization under content class
 3) Added alt text tag for images
 4) Combined CSS selectors that have the same content
